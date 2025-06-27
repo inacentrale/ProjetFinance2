@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.preprocessing import StandardScaler
 from sklearn.cluster import KMeans
+# for Streamlit rebuild
 
 st.set_page_config(page_title="Accueil", layout="wide")
 st.title("📊 Tableau de bord - Analyse des données")
